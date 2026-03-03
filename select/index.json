@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "オーダーメイド",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-03T05:26:01.084897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_オーダーメイド_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オーダーメイド (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_オーダーメイド_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_オーダーメイド_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "Leo/need feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ",
+      "has_synced": true,
+      "path": "select/04_オーダーメイド_Leo_need_feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オーダーメイド (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/05_オーダーメイド_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_オーダーメイド_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オーダーメイド (feat. 星乃一歌 & 天馬咲希 & 望月穂波 & 日野森志歩 &...",
+      "artist": "Leo need",
+      "has_synced": true,
+      "path": "select/07_オーダーメイド_(feat._星乃一歌_&_天馬咲希_&_望月穂波_&_日野森志歩_&..._Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "Leo/need feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&Megurine Luka",
+      "has_synced": true,
+      "path": "select/08_オーダーメイド_Leo_need_feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&Megurine_Luka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/09_オーダーメイド_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/10_オーダーメイド_Omoinotake.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オーダーメイド (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/11_オーダーメイド_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "オーダーメイド (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5])\u001f「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_オーダーメイド_(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5])_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "②会話パート1「オーダーメイド　入店」",
+      "artist": "深夜工房",
+      "has_synced": true,
+      "path": "select/13_2会話パート1「オーダーメイド_入店」_深夜工房.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "オーダーメイド「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/14_オーダーメイド「www.jpopsingles.eu」_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "オーダーメイド",
+      "artist": "Leo/need (野口瑠璃子, 礒部花凜, 上田麗奈, 中島由貴) Feat. 巡音ルカ",
+      "has_synced": true,
+      "path": "select/15_オーダーメイド_Leo_need_(野口瑠璃子,_礒部花凜,_上田麗奈,_中島由貴)_Feat._巡音ルカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーダーメイド",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_オーダーメイド_RADWIMPS.txt"
+    }
+  ]
+}
